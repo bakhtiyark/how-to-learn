@@ -6,6 +6,7 @@
     width: 920px;
     display: flex;
     flex-wrap: wrap;
-    gap: 0px 100px; 
-    margin:0 auto 0 auto;
+    gap: 0px 100px;
+    margin-right: auto;
+    margin-left: auto;
 }
