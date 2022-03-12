@@ -1,0 +1,8 @@
+﻿.oakley{
+    display: flex;
+    justify-content: center;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    background-color: #f2f2f2;
+}
