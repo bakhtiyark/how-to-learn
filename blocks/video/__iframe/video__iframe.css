@@ -4,12 +4,4 @@ padding: 0;
 list-style-type: none;
 width: 516px;
 height: 315px;
-border:0;
-}
-.video__iframe:last-child{
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    padding-left: 20px;
-    border:0;
-}
+border:0;}
